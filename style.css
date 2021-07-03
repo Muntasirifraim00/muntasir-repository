@@ -1,4 +1,47 @@
-p{
-    color: darkgoldenrod;
-    
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+   .half-width{
+       width: 40;
+       float: left;
+       margin-left: 5%;
+       padding-left: 1%;
+       padding-right: 5%;
+
+   }
+span{
+    color: darkorange;
+}
+   section{
+    height: 700px;
+    padding-bottom: 250px;
+    display: flex;
+}
+   
+.half-width img{
+    width: 110%;
+    height: 50%;
+    padding-right: 7%;
+}
+
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+h2{
+    font-size: 40px;
+
+
+
+
+
+}
+footer p{
+    text-align: center;
 }
