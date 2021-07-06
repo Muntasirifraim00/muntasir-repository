@@ -133,9 +133,9 @@ h1 span{
     width: 1345px;
     background-color: black;
     text-align: center;
-    margin-top: 140px;
+    margin-top: -119px;
   color: rgb(252, 247, 248);
-  margin-top: 60px;
+  
 }
 .arrange{
     margin-top: 115px;
@@ -152,3 +152,20 @@ margin-left:90px;
     margin-bottom: -280px;
 }
 
+.number-background h1{
+    text-align: center;
+   font-size: 343px;
+   margin-left:300px;
+   margin-top: 2px;
+   margin-bottom: 0px;
+   color: rgb(238, 230, 216);
+
+}
+.number-background {
+   
+ background-image: url(5555.jpg);
+   display: flex;
+   height: 400px;
+margin-top: 90px;
+
+}
